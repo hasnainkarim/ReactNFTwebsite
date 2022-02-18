@@ -1,0 +1,38 @@
+.image{
+    height: 360px;
+    width: 360px;
+    float: inline-start;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    
+}
+.image:hover{
+
+  
+   
+    transition: 1s ease-in-out;
+    width: 280px;
+    margin-right: 115px;
+    
+ 
+ 
+    
+  
+    
+}
+.container{
+    float: left;
+    height: 360px;
+    width: 360px;
+    float: inline-start;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-color: rgb(242, 250, 128);
+    ;
+}
+
+.margin{
+    margin-bottom: 50px;
+}

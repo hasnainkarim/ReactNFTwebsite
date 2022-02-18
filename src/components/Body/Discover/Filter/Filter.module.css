@@ -1,0 +1,9 @@
+.container{
+    display: inline-block;
+    margin: 10px;
+}
+.filter{
+    display: inline-block;
+    float: inline-end;
+    margin: 10px;
+}

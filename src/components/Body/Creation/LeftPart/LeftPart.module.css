@@ -1,0 +1,89 @@
+.upper{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-bottom: 10%;
+    margin-top: 90%;
+    margin-left: 85%;
+
+}
+.upper:hover{
+    height: 70px;
+width: 70px;   
+ 
+   
+   
+    transition: 1s ease;
+ 
+
+  
+}
+.lower{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+   
+    margin-top: 90%;
+    margin-left: 85%;
+    
+    
+
+}
+.lower:hover{
+    height: 70px;
+width: 70px;   
+ 
+   
+   
+    transition: 1s ease;
+ 
+
+  
+}
+
+.bgUpper{
+    background: url('../../../../assets/images/bg.jpg');
+    background-size: cover;
+
+    height: 220px;
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 10%;
+
+}
+.bgLower{
+    background: url('../../../../assets/images/bg.jpg');
+    background-size: cover;
+    height: 170px;
+    width: 150px;
+    border-radius: 10px;
+    float: inline-end;
+  
+  
+
+
+}
+
+.bgUpper:hover{
+ 
+    background-size: cover;
+
+    height: 220px;
+    width: 200px;
+    border-bottom-right-radius: 70%;
+    margin-bottom: 10%;
+    transition: 1s ease-in-out;
+    /* border-top-left-radius: 70%; */
+
+}
+.bgLower:hover{
+   
+    background-size: cover;
+    height: 170px;
+    width: 150px;
+    border-bottom-right-radius: 70%;
+    /* border-top-left-radius: 70%; */
+    float: inline-end;
+    transition: 1s ease-in-out;
+}

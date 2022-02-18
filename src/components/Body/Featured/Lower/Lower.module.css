@@ -1,0 +1,30 @@
+.container{
+    display: inline-block;
+    margin-bottom: 100px;
+    
+}
+.propic{
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    float: inline-start;
+    border-radius: 50%;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: black;
+    display: inline-block;
+    margin-left: 5%;
+    
+
+}
+.button{
+    display: inline-block;
+    /* float: inline-end; */
+    /* padding-right: 30%; */
+    margin-left: 20%;
+    
+
+   
+}

@@ -1,0 +1,18 @@
+.container {
+    border-radius: 50px;
+    height: 30px;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    color: lightgray;
+    border-width: 3px;
+    border-color: lightgray;
+    border-style: solid;
+    background-color: aliceblue;
+  display: inline-block;
+
+  
+  
+    
+
+}

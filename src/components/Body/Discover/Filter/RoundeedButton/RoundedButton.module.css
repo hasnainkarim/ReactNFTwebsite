@@ -1,0 +1,31 @@
+.container {
+    border-radius: 50px;
+    height: 30px;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    color: rgb(58, 1, 1);
+  
+    padding-right: 10px;
+ 
+    background-color: rgba(255, 253, 253, 0.76);
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+  
+  
+    
+
+}
+.container:hover {
+
+  color: rgb(255, 255, 255);
+
+
+  background-color: rgba(40, 2, 177, 0.76);
+
+
+
+  
+
+}

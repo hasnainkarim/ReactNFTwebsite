@@ -1,0 +1,36 @@
+.container{
+
+    display: inline-block;
+    margin-left: -2%;
+    margin-right: 5vw;
+  
+  
+}
+
+.types{
+
+    display: inline-block;
+    margin-left: 8vw;
+ 
+  
+}
+.typesEnd{
+
+    display: inline-block;
+    float: inline-end;
+    margin-left: 8vw;
+  
+}
+.trans{
+
+    display: inline-block;
+    margin-left: 0%;
+    
+  
+}
+.margin{
+    padding: 5%;
+    background-color:  rgb(250, 246, 246);
+  
+   
+}

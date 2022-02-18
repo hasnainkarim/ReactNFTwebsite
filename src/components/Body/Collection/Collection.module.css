@@ -1,0 +1,37 @@
+.container{
+
+    display: inline-block;
+}
+.bigger{
+    display: inline-block;
+    float: inline-start;
+    margin-top: 2%;
+    margin-right: 15%;
+    
+}
+.big{
+ 
+    display: inline-block;
+   
+  
+    
+}
+.top{
+    display: inline-block;
+    float: inline-end;
+}
+.line{
+    height: 500px;
+    display: inline-block;
+    border-right: 1px solid rgb(209, 203, 203);
+    margin-left: 10%;
+ 
+    
+}
+
+.margin{
+    padding: 2.72%;
+}
+.floatend{
+    float: inline-end;
+}

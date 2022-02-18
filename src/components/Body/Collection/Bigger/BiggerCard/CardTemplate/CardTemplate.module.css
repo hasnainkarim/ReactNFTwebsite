@@ -1,0 +1,26 @@
+.container{
+    display: inline-block;
+    margin-right: 10px;
+}
+.image{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    
+  
+}
+.title{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+
+}
+.number{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    color: black;
+
+
+}

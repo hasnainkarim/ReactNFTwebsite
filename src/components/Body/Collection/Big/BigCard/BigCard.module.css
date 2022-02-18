@@ -1,0 +1,83 @@
+.container{
+    display: inline-block;
+    margin-right: 20px;
+    padding-bottom: 45px;
+
+ 
+  
+}
+.info{
+    display: inline-block;
+    margin-right: 20px;
+    padding-bottom: 45px;
+    float: inline-end;
+
+    
+   
+
+ 
+  
+}
+
+.image{
+    height: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    float: linline-start;
+    
+    
+    
+    
+}
+
+.imageProfile{
+   height: 20px;
+   width: 20px;
+    border-radius: 50%;
+
+    
+    
+
+}
+.margin{
+    margin-top: 30px;
+   
+
+   
+}
+.title{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 10px;
+
+}
+.profiles{
+    margin-bottom: -25px;
+   
+}
+.button{
+    margin-bottom: 10px;
+}
+.imageShaper{
+    height: 135px;
+    border-radius: 10px;
+    
+}
+.imageShaper:hover{
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-style: solid;
+  height: 129px;
+  width: 129px;
+ 
+    
+}
+
+.number{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gray;
+}

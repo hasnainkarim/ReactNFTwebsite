@@ -1,0 +1,15 @@
+.left{
+display: inline-block;
+float: inline-start;
+margin-right: 30%;
+
+}
+.center{
+    display: inline-block;
+    
+    
+}
+.right{
+    display: inline-block;
+    float: inline-end;
+}

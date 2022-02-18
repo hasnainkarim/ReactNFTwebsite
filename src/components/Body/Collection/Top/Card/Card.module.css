@@ -1,0 +1,54 @@
+.container{
+
+    display: inline-block;
+    padding: 3px;
+    
+    
+}
+
+.image{
+    display: inline;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+    
+}
+.imagesmall{
+    display: inline;
+    height: 15px;
+    border-radius: 50%;
+    width: 15px;
+   
+    
+}
+.greenpercent{
+    color: rgb(171, 208, 194);
+    font-weight: bold;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    float: inline-end;
+
+}
+.count{
+    color: grey;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.name{
+    color: black;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.index{
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    float: inline-start;
+    margin-right: 10px;
+   
+
+}

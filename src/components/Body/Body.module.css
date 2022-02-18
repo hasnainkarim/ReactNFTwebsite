@@ -1,0 +1,48 @@
+.container{
+
+    margin-top: 80px;
+    margin-bottom: 150px;
+    
+}
+.trans{
+ 
+    margin-bottom: 10%;
+    margin-top: 10%;
+    /* padding: 2.72%; */
+
+ 
+    
+   
+}
+.caros{
+    margin-bottom: 100px;
+   
+}
+.feat{
+    
+    margin-bottom: 10%;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+   
+}
+.create{
+   
+    margin-bottom: 10%;
+    margin-top: 10%;
+    padding: 2.72%;
+   
+}
+.coll{
+    margin-bottom: 200px;
+}
+
+.disc{
+   
+    margin-bottom: 10%;
+    margin-top: 300px;
+    /* padding: 2.72%; */
+   
+}
